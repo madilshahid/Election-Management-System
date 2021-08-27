@@ -1,0 +1,11 @@
+1 asimkhan Water 12345 RRP A
+1 NA1 Azadi khan
+2 imrankhan Bat 54321 PTI A
+1 NA1 Zakir khan
+1 NA5 Takreem khan
+1 muslimleague Lion lion Muslim League
+0 NA2 Tahir khan
+1 ppp Arrow arrow Pakistan Peaple's Party
+1 NA3 Sadan khan
+1 barabri Equal equal Barabri Party
+0 NA4 Sahil khan
